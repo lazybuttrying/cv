@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1755494378.69729 "/Users/doyeon/Desktop/crypto/cv.tex" "cv.pdf" "cv" 1755494379.80826 0
-  "/Users/doyeon/Desktop/crypto/cv.tex" 1755494377.85745 9369 85cacb3a3fe6cf1be26510b22fe23d1a ""
+["pdflatex"] 1756375077.55539 "/Users/doyeon/Desktop/crypto/cv.tex" "cv.pdf" "cv" 1756375078.51582 0
+  "/Users/doyeon/Desktop/crypto/cv.tex" 1756375077.26513 10335 28202c8c8cd9f5fabef7078429f90b38 ""
   "/usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1741388039 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1741388039 2679 32dd8ae231bf4a0752b98f62dc097183 ""
   "/usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/fontname/texfonts.map" 1741388039 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -60,8 +60,8 @@
   "/usr/local/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/tools/array.sty" 1741388039 14552 27664839421e418b87f56fa4c6f66b1a ""
   "/usr/local/Cellar/texlive/20250308_1/share/texmf-dist/web2c/texmf.cnf" 1754914437.05739 42151 79f67285bdd95beca4d137b380b4b9e5 ""
   "/usr/local/Cellar/texlive/20250308_1/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1741388039 3346056 98361fcfb0fa8e58b0f49f951079fd02 ""
-  "cv.aux" 1755494379.68575 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
-  "cv.tex" 1755494377.85745 9369 85cacb3a3fe6cf1be26510b22fe23d1a ""
+  "cv.aux" 1756375078.40131 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
+  "cv.tex" 1756375077.26513 10335 28202c8c8cd9f5fabef7078429f90b38 ""
   "resume.cls" 1754914335.91783 4799 dc232d25c3ab0eff52077d212b0c7716 ""
   (generated)
   "cv.aux"

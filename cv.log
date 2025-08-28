@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.3.15)  18 AUG 2025 14:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.3.15)  28 AUG 2025 18:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -145,24 +145,25 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 44--44
 [] 
  []
 
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 139.
-(/usr/local/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/psnfss/ot1pcr.fd
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-)
+
 
 [1
 
 {/usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}]
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 153.
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 158.
+ (/usr/local/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 172.
  (/usr/local/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 165.
+(Font)              <10.95> on input line 184.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 165.
+(Font)              <8> on input line 184.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 165.
+(Font)              <6> on input line 184.
 
 
 [2] (./cv.aux)
@@ -174,13 +175,13 @@ L3 programming layer <2025-01-18>
 Here is how much of TeX's memory you used:
  3597 strings out of 473190
  56452 string characters out of 5705898
- 456648 words of memory out of 5000000
+ 458648 words of memory out of 5000000
  26838 multiletter control sequences out of 15000+600000
  571334 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,8n,79p,603b,222s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on cv.pdf (2 pages, 71750 bytes).
+Output written on cv.pdf (2 pages, 73833 bytes).
 PDF statistics:
  38 PDF objects out of 1000 (max. 8388607)
  23 compressed objects within 1 object stream

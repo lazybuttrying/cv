@@ -66,11 +66,6 @@ INPUT /usr/local/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/fontawesom
 INPUT /usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/public/fontawesome/FontAwesome--fontawesometwo.tfm
 INPUT /usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
 INPUT /usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
-INPUT /usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
-INPUT /usr/local/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/psnfss/ot1pcr.fd
-INPUT /usr/local/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/psnfss/ot1pcr.fd
-INPUT /usr/local/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/psnfss/ot1pcr.fd
-INPUT /usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm
 OUTPUT cv.pdf
 INPUT /usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
 INPUT /usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
@@ -83,8 +78,11 @@ INPUT /usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/vf/adobe/times
 INPUT /usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT /usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/vf/adobe/times/ptmri7t.vf
 INPUT /usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
-INPUT /usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
-INPUT /usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /usr/local/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+INPUT /usr/local/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+INPUT /usr/local/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+INPUT /usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm
 INPUT /usr/local/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 INPUT /usr/local/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 INPUT /usr/local/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/psnfss/ts1ptm.fd
@@ -97,6 +95,8 @@ INPUT /usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/public/cm/
 INPUT /usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT /usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
+INPUT /usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
 INPUT /usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/vf/adobe/courier/pcrr7t.vf
 INPUT /usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/adobe/courier/pcrr8r.tfm
 INPUT /usr/local/Cellar/texlive/20250308_1/share/texmf-dist/fonts/vf/adobe/times/ptmr8c.vf
