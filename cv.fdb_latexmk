@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1768197162.00915 "/Users/dyk/Desktop/template/cv/cv.tex" "cv.pdf" "cv" 1768197162.49358 0
-  "/Users/dyk/Desktop/template/cv/cv.tex" 1768197161.79137 10351 e39712bb05524d7a411622e5a36683e1 ""
+["pdflatex"] 1768200138.39745 "/Users/dyk/Desktop/template/cv/cv.tex" "cv.pdf" "cv" 1768200138.93146 0
+  "/Users/dyk/Desktop/template/cv/cv.tex" 1768200138.14408 10350 e181d507488b29f249ab6e1c346057df ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1741388039 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1741388039 2679 32dd8ae231bf4a0752b98f62dc097183 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/fontname/texfonts.map" 1741388039 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -55,8 +55,8 @@
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/tools/array.sty" 1741388039 14552 27664839421e418b87f56fa4c6f66b1a ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/web2c/texmf.cnf" 1741388039 42151 79f67285bdd95beca4d137b380b4b9e5 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1741388039 3346132 6a939494d30ef2febcac9d47a1191e44 ""
-  "cv.aux" 1768197162.444 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
-  "cv.tex" 1768197161.79137 10351 e39712bb05524d7a411622e5a36683e1 ""
+  "cv.aux" 1768200138.87836 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
+  "cv.tex" 1768200138.14408 10350 e181d507488b29f249ab6e1c346057df ""
   "resume.cls" 1768194063.91495 4799 dc232d25c3ab0eff52077d212b0c7716 ""
   (generated)
   "cv.aux"

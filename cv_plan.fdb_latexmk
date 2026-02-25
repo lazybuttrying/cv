@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1768199267.18936 "/Users/dyk/Desktop/template/cv/cv_plan.tex" "cv_plan.pdf" "cv_plan" 1768199267.88101 0
-  "/Users/dyk/Desktop/template/cv/cv_plan.tex" 1768199266.93672 8431 46f3bf674880fa9b6539b12550e7ad18 ""
+["pdflatex"] 1768200227.47158 "/Users/dyk/Desktop/template/cv/cv_plan.tex" "cv_plan.pdf" "cv_plan" 1768200228.15016 0
+  "/Users/dyk/Desktop/template/cv/cv_plan.tex" 1768200227.27144 8431 c65e49736b3f96fd3c9775b9520e1436 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1741388039 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1741388039 2679 32dd8ae231bf4a0752b98f62dc097183 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/fontname/texfonts.map" 1741388039 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -84,9 +84,9 @@
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/xcolor/xcolor.sty" 1741388039 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/web2c/texmf.cnf" 1741388039 42151 79f67285bdd95beca4d137b380b4b9e5 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1741388039 3346132 6a939494d30ef2febcac9d47a1191e44 ""
-  "cv_plan.aux" 1768199267.81967 162 87159b23cce7c2b923b11c85495bbd6d "pdflatex"
-  "cv_plan.out" 1768199267.57552 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "cv_plan.tex" 1768199266.93672 8431 46f3bf674880fa9b6539b12550e7ad18 ""
+  "cv_plan.aux" 1768200228.08791 162 87159b23cce7c2b923b11c85495bbd6d "pdflatex"
+  "cv_plan.out" 1768200227.85482 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "cv_plan.tex" 1768200227.27144 8431 c65e49736b3f96fd3c9775b9520e1436 ""
   "resume.cls" 1768194063.91495 4799 dc232d25c3ab0eff52077d212b0c7716 ""
   (generated)
   "cv_plan.aux"
